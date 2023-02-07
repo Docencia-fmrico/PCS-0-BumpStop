@@ -5,6 +5,8 @@ En grupos de 4, haced una aplicación en ROS 2 que haga que un robot:
 1. Avance si no hay un obstáculo delante a menos de un metro y medio.
 2. Gire si detecta un obstáculo delante a menos de un metro y medio.
 
+El repositorio debe contener un paquete que contenga todos los nodos necesarios, siguiendo las recomendaciones de buenas prácticas y organización de los repositorios.
+
 El robot debe funcionar en el [robot simulado](https://github.com/IntelligentRoboticsLabs/ir_robots), en Tiago o en Kobuki.
 
 Puntuación (sobre 10):
